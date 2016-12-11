@@ -1,0 +1,77 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Show"
+provides-nominal:
+- "C2TV4Show"
+provides-member:
+- ["C2TV4Show", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "Show"
+- "Float"
+- "Int"
+- "BooleanLiteralType"
+depends-member:
+- ["Ps9AnyObject", ""]
+- ["C2TV4Show", "Float"]
+- ["C2TV4Show", "Int"]
+- ["C2TV4Show", "String"]
+- ["C2TV4Show", "bookmark"]
+- ["C2TV4Show", "countryCode"]
+- ["C2TV4Show", "countryName"]
+- ["C2TV4Show", "countryTimezone"]
+- ["C2TV4Show", "deinit"]
+- ["C2TV4Show", "genres"]
+- ["C2TV4Show", "href"]
+- ["C2TV4Show", "id"]
+- ["C2TV4Show", "imageMedium"]
+- ["C2TV4Show", "imageOriginal"]
+- ["C2TV4Show", "imdb"]
+- ["C2TV4Show", "init"]
+- ["C2TV4Show", "language"]
+- ["C2TV4Show", "lastUpdate"]
+- ["C2TV4Show", "name"]
+- ["C2TV4Show", "networkId"]
+- ["C2TV4Show", "networkName"]
+- ["C2TV4Show", "nextEpisode"]
+- ["C2TV4Show", "premiered"]
+- ["C2TV4Show", "previousEpisode"]
+- ["C2TV4Show", "ratingAvg"]
+- ["C2TV4Show", "ratingWeigt"]
+- ["C2TV4Show", "runtime"]
+- ["C2TV4Show", "scheduleDay"]
+- ["C2TV4Show", "scheduleTime"]
+- ["C2TV4Show", "status"]
+- ["C2TV4Show", "summary"]
+- ["C2TV4Show", "thetvdb"]
+- ["C2TV4Show", "tvrage"]
+- ["C2TV4Show", "type"]
+- ["C2TV4Show", "url"]
+- ["C2TV4Show", "webChannel"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C2TV4Show"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CloudKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "4e3a0f07f1f4be7376084fd96ea4b55a"

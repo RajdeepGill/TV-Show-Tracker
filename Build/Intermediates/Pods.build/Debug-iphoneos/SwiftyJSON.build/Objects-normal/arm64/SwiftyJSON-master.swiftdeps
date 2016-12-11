@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "e3a0cb5c76f3d5aea0e23959b73a9414"
+build_time: [513018879, 71235000]
+inputs:
+  "/Users/gill/Desktop/TV/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [511496312, 0]

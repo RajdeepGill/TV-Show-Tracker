@@ -1,0 +1,22 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "83c504112db36b88993e9858cb1735c3"
+build_time: [533080247, 451522000]
+inputs:
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/Season.swift": [510727726, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/NextEpisode.swift": [511484080, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/ShowViewController.swift": [513047411, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Episodes.swift": [513311170, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/ViewController.swift": [513030634, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/CastMember.swift": [510727726, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/ShowsTableViewController.swift": [513051786, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/Person.swift": [510727726, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Shows+CoreDataProperties.swift": [513310984, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/Show.swift": [513314436, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/SearchTableViewController.swift": [513032785, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/EpisodesTableViewController.swift": [513315768, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Shows.swift": [513314647, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/NewShowViewController.swift": [513315070, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Episodes+CoreDataProperties.swift": [513046147, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/Episode.swift": [513041865, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/API.swift": [513315053, 0]
+  "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/TV/AppDelegate.swift": [511142448, 0]

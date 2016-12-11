@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Episodes" representedClassName=".Episodes" syncable="YES">
+        <attribute name="airdate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="airstamp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="airtime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="imageMedium" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageOriginal" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="runtime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="season" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="summary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="watched" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <relationship name="shows" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Shows" inverseName="episodes" inverseEntity="Shows" syncable="YES"/>
+    </entity>
+    <entity name="Shows" representedClassName=".Shows" syncable="YES">
+        <attribute name="countryCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="countryName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="countryTimezone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="genres" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="href" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageMedium" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageOriginal" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imdb" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="language" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastUpdate" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="networkId" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="networkName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nextEpisode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="premiered" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="previousEpisode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ratingAvg" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="ratingWeigt" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="runtime" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="scheduleDay" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="scheduleTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="summary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="thetvdb" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tvrage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="webChannel" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="episodes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Episodes" inverseName="shows" inverseEntity="Episodes" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Shows" positionX="-63" positionY="-18" width="128" height="495"/>
+        <element name="Episodes" positionX="-63" positionY="135" width="128" height="255"/>
+    </elements>
+</model>

@@ -1,0 +1,21 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "b6e8bc5ec2336d3ab67bbf4de9bd27f2"
+build_time: [513020090, 432066000]
+inputs:
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Alamofire.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Download.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Error.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Manager.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/MultipartFormData.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Notifications.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/ParameterEncoding.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Request.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Response.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/ResponseSerialization.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Result.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/ServerTrustPolicy.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Stream.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Timeline.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Upload.swift": [511496184, 0]
+  "/Users/gill/Desktop/TV/Pods/Alamofire/Source/Validation.swift": [511496184, 0]

@@ -1,0 +1,223 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["C2TV8Episodes", ""]
+- ["C2TV8Episodes", "id"]
+- ["C2TV8Episodes", "url"]
+- ["C2TV8Episodes", "name"]
+- ["C2TV8Episodes", "season"]
+- ["C2TV8Episodes", "number"]
+- ["C2TV8Episodes", "airdate"]
+- ["C2TV8Episodes", "airtime"]
+- ["C2TV8Episodes", "airstamp"]
+- ["C2TV8Episodes", "runtime"]
+- ["C2TV8Episodes", "imageMedium"]
+- ["C2TV8Episodes", "imageOriginal"]
+- ["C2TV8Episodes", "summary"]
+- ["C2TV8Episodes", "watched"]
+- ["C2TV8Episodes", "shows"]
+provides-dynamic-lookup:
+- "name"
+- "imageMedium"
+- "shows"
+- "number"
+- "airstamp"
+- "airdate"
+- "id"
+- "summary"
+- "imageOriginal"
+- "airtime"
+- "url"
+- "season"
+- "runtime"
+- "watched"
+depends-top-level:
+- "NSManagedObject"
+- "String"
+- "Episodes"
+- "NSNumber"
+depends-member:
+- ["Ps9AnyObject", "airdate"]
+- ["Ps9AnyObject", "airstamp"]
+- ["Ps9AnyObject", "airtime"]
+- ["Ps9AnyObject", "id"]
+- ["Ps9AnyObject", "imageMedium"]
+- ["Ps9AnyObject", "imageOriginal"]
+- ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", "number"]
+- ["Ps9AnyObject", "runtime"]
+- ["Ps9AnyObject", "season"]
+- ["Ps9AnyObject", "shows"]
+- ["Ps9AnyObject", "summary"]
+- ["Ps9AnyObject", "url"]
+- ["Ps9AnyObject", "watched"]
+- ["Ps11CVarArgType", "airdate"]
+- ["Ps11CVarArgType", "airstamp"]
+- ["Ps11CVarArgType", "airtime"]
+- ["Ps11CVarArgType", "id"]
+- ["Ps11CVarArgType", "imageMedium"]
+- ["Ps11CVarArgType", "imageOriginal"]
+- ["Ps11CVarArgType", "name"]
+- ["Ps11CVarArgType", "number"]
+- ["Ps11CVarArgType", "runtime"]
+- ["Ps11CVarArgType", "season"]
+- ["Ps11CVarArgType", "shows"]
+- ["Ps11CVarArgType", "summary"]
+- ["Ps11CVarArgType", "url"]
+- ["Ps11CVarArgType", "watched"]
+- ["Ps28CustomDebugStringConvertible", "airdate"]
+- ["Ps28CustomDebugStringConvertible", "airstamp"]
+- ["Ps28CustomDebugStringConvertible", "airtime"]
+- ["Ps28CustomDebugStringConvertible", "id"]
+- ["Ps28CustomDebugStringConvertible", "imageMedium"]
+- ["Ps28CustomDebugStringConvertible", "imageOriginal"]
+- ["Ps28CustomDebugStringConvertible", "name"]
+- ["Ps28CustomDebugStringConvertible", "number"]
+- ["Ps28CustomDebugStringConvertible", "runtime"]
+- ["Ps28CustomDebugStringConvertible", "season"]
+- ["Ps28CustomDebugStringConvertible", "shows"]
+- ["Ps28CustomDebugStringConvertible", "summary"]
+- ["Ps28CustomDebugStringConvertible", "url"]
+- ["Ps28CustomDebugStringConvertible", "watched"]
+- ["Ps23CustomStringConvertible", "airdate"]
+- ["Ps23CustomStringConvertible", "airstamp"]
+- ["Ps23CustomStringConvertible", "airtime"]
+- ["Ps23CustomStringConvertible", "id"]
+- ["Ps23CustomStringConvertible", "imageMedium"]
+- ["Ps23CustomStringConvertible", "imageOriginal"]
+- ["Ps23CustomStringConvertible", "name"]
+- ["Ps23CustomStringConvertible", "number"]
+- ["Ps23CustomStringConvertible", "runtime"]
+- ["Ps23CustomStringConvertible", "season"]
+- ["Ps23CustomStringConvertible", "shows"]
+- ["Ps23CustomStringConvertible", "summary"]
+- ["Ps23CustomStringConvertible", "url"]
+- ["Ps23CustomStringConvertible", "watched"]
+- ["C2TV8Episodes", "NSManagedObject"]
+- ["C2TV8Episodes", "NSNumber"]
+- ["C2TV8Episodes", "String"]
+- ["C2TV8Episodes", "airdate"]
+- ["C2TV8Episodes", "airstamp"]
+- ["C2TV8Episodes", "airtime"]
+- ["C2TV8Episodes", "id"]
+- ["C2TV8Episodes", "imageMedium"]
+- ["C2TV8Episodes", "imageOriginal"]
+- ["C2TV8Episodes", "name"]
+- ["C2TV8Episodes", "number"]
+- ["C2TV8Episodes", "runtime"]
+- ["C2TV8Episodes", "season"]
+- ["C2TV8Episodes", "shows"]
+- ["C2TV8Episodes", "summary"]
+- ["C2TV8Episodes", "url"]
+- ["C2TV8Episodes", "watched"]
+- ["Ps9Equatable", "airdate"]
+- ["Ps9Equatable", "airstamp"]
+- ["Ps9Equatable", "airtime"]
+- ["Ps9Equatable", "id"]
+- ["Ps9Equatable", "imageMedium"]
+- ["Ps9Equatable", "imageOriginal"]
+- ["Ps9Equatable", "name"]
+- ["Ps9Equatable", "number"]
+- ["Ps9Equatable", "runtime"]
+- ["Ps9Equatable", "season"]
+- ["Ps9Equatable", "shows"]
+- ["Ps9Equatable", "summary"]
+- ["Ps9Equatable", "url"]
+- ["Ps9Equatable", "watched"]
+- ["Ps8Hashable", "airdate"]
+- ["Ps8Hashable", "airstamp"]
+- ["Ps8Hashable", "airtime"]
+- ["Ps8Hashable", "id"]
+- ["Ps8Hashable", "imageMedium"]
+- ["Ps8Hashable", "imageOriginal"]
+- ["Ps8Hashable", "name"]
+- ["Ps8Hashable", "number"]
+- ["Ps8Hashable", "runtime"]
+- ["Ps8Hashable", "season"]
+- ["Ps8Hashable", "shows"]
+- ["Ps8Hashable", "summary"]
+- ["Ps8Hashable", "url"]
+- ["Ps8Hashable", "watched"]
+- ["CSo15NSManagedObject", "NSManagedObject"]
+- ["CSo15NSManagedObject", "NSNumber"]
+- ["CSo15NSManagedObject", "String"]
+- ["CSo15NSManagedObject", "airdate"]
+- ["CSo15NSManagedObject", "airstamp"]
+- ["CSo15NSManagedObject", "airtime"]
+- ["CSo15NSManagedObject", "id"]
+- ["CSo15NSManagedObject", "imageMedium"]
+- ["CSo15NSManagedObject", "imageOriginal"]
+- ["CSo15NSManagedObject", "name"]
+- ["CSo15NSManagedObject", "number"]
+- ["CSo15NSManagedObject", "runtime"]
+- ["CSo15NSManagedObject", "season"]
+- ["CSo15NSManagedObject", "shows"]
+- ["CSo15NSManagedObject", "summary"]
+- ["CSo15NSManagedObject", "url"]
+- ["CSo15NSManagedObject", "watched"]
+- ["CSo8NSObject", "NSManagedObject"]
+- ["CSo8NSObject", "NSNumber"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "airdate"]
+- ["CSo8NSObject", "airstamp"]
+- ["CSo8NSObject", "airtime"]
+- ["CSo8NSObject", "id"]
+- ["CSo8NSObject", "imageMedium"]
+- ["CSo8NSObject", "imageOriginal"]
+- ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "number"]
+- ["CSo8NSObject", "runtime"]
+- ["CSo8NSObject", "season"]
+- ["CSo8NSObject", "shows"]
+- ["CSo8NSObject", "summary"]
+- ["CSo8NSObject", "url"]
+- ["CSo8NSObject", "watched"]
+- ["PSo16NSObjectProtocol", "airdate"]
+- ["PSo16NSObjectProtocol", "airstamp"]
+- ["PSo16NSObjectProtocol", "airtime"]
+- ["PSo16NSObjectProtocol", "id"]
+- ["PSo16NSObjectProtocol", "imageMedium"]
+- ["PSo16NSObjectProtocol", "imageOriginal"]
+- ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "number"]
+- ["PSo16NSObjectProtocol", "runtime"]
+- ["PSo16NSObjectProtocol", "season"]
+- ["PSo16NSObjectProtocol", "shows"]
+- ["PSo16NSObjectProtocol", "summary"]
+- ["PSo16NSObjectProtocol", "url"]
+- ["PSo16NSObjectProtocol", "watched"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "C2TV8Episodes"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules/module.modulemap"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/gill/Desktop/The Folder/Projects/TV APP/TV/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CloudKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "e42dc9f7c8bfc211c9ae09c95516251d"
